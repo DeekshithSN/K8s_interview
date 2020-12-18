@@ -19,3 +19,5 @@ go to https://www.katacoda.com/aptem/scenarios/helm --> start scenario --> wait 
 
 --------------
 
+1. helm-1 --> correct the errors 
+2. helm-2 --> 
