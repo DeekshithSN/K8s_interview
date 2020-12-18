@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata: 
+  namespace: kube-system
+  name: my-python
+spec:
+  containers:
+    - name: my-python
+      image: deekshithsn/python-web-app
+
+
+
+
+# kubectl label nodes node_name size=medium
+ 
