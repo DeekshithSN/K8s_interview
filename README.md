@@ -12,4 +12,10 @@ go to https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster  --
 
 # Helm 
 
+--------------
+### setup 
+
 go to https://www.katacoda.com/aptem/scenarios/helm --> start scenario --> wait for sometime, might take some time to setup kubernetes --> once that's done execute commands provide in left window on terminal window 
+
+--------------
+
