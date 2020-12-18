@@ -20,4 +20,4 @@ go to https://www.katacoda.com/aptem/scenarios/helm --> start scenario --> wait 
 --------------
 
 1. helm-1 --> correct the errors 
-2. helm-2 --> 
+2. helm-2 --> when you deploy chart it will create ingress. By using helm i should stop creating ingress, but in templates folder i should have ingress.yaml
